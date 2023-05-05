@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuaraymond123
-- 👀 I’m interested in ... Blockchain
-- 🌱 I’m currently learning ... Computer Science and Network Security
-- 💞️ I’m looking to collaborate on ... ADA Cardano network projects
+- 👀 I’m interested in ... Blockchain, Automations, ML, DL, NLP
+- 🌱 I’m currently learning ... Computer Science and Artificial Intelligence
+- 💞️ I’m looking to collaborate on ... Python
 - 📫 How to reach me ... joshua.hepner.r@gmail.com
 
 <!---
